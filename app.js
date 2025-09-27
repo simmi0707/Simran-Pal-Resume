@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const skillsData = {
     dev: [
       { name: "HTML", logo: "/assets/html.png" },
