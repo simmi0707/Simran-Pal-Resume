@@ -1,39 +1,39 @@
 const skillsData = {
   dev: [
-    { name: "HTML", logo: "/assets/html.png" },
-    { name: "CSS", logo: "/assets/css.png" },
-    { name: "JavaScript", logo: "/assets/java script.png" },
-    { name: "React.js", logo: "/assets/React.png" },
-    { name: "WordPress", logo: "/assets/wordpress.png" },
-    { name: "Shopify", logo: "/assets/shopify.png" },
-    { name: "Git", logo: "/assets/git.png" },
-    { name: "GitHub", logo: "/assets/git hub.png" },
+    { name: "HTML", logo: "assets/html.png" },
+    { name: "CSS", logo: "assets/css.png" },
+    { name: "JavaScript", logo: "assets/java script.png" },
+    { name: "React.js", logo: "assets/React.png" },
+    { name: "WordPress", logo: "assets/wordpress.png" },
+    { name: "Shopify", logo: "assets/shopify.png" },
+    { name: "Git", logo: "assets/git.png" },
+    { name: "GitHub", logo: "assets/git hub.png" },
   ],
   ui: [
     { name: "Figma", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" },
-    { name: "Prototyping", logo: "/assets/prototyping.png" }, 
-    { name: "Sitemap", logo: "/assets/sitemap.png" },
-    { name: "Wireframing", logo: "/assets/wireframing.png" },
-    { name: "User Research", logo: "/assets/user.png" }
+    { name: "Prototyping", logo: "assets/prototyping.png" }, 
+    { name: "Sitemap", logo: "assets/sitemap.png" },
+    { name: "Wireframing", logo: "assets/wireframing.png" },
+    { name: "User Research", logo: "assets/user.png" }
   ],
   data: [
-    { name: "Power BI", logo: "/assets/power bi.png" },
-    { name: "SQL", logo: "/assets/sql.png" },
+    { name: "Power BI", logo: "assets/power bi.png" },
+    { name: "SQL", logo: "assets/sql.png" },
     { name: "Pandas", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" },
     { name: "NumPy", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" },
-    { name: "Tableau", logo: "/assets/tabaleau.png" },
-    { name: "Excel", logo: "/assets/excel.png" }
+    { name: "Tableau", logo: "assets/tabaleau.png" },
+    { name: "Excel", logo: "assets/excel.png" }
   ]
 };
 
 const projectsData = [
-  { title: "Freak Developers  ", category: "dev", img: "/assets/freak.png", preview: "https://freakdevs-official-site.onrender.com/", github: "#" },
-  { title: "Ceramic Heaven", category: "dev", img: "/assets/ceramic.png", preview: "https://ceramicsheaven.onrender.com/", github: "https://github.com/simmi0707/Ceramic-Heaven.git" },
+  { title: "Freak Developers  ", category: "dev", img: "assets/freak.png", preview: "https://freakdevs-official-site.onrender.com/", github: "#" },
+  { title: "Ceramic Heaven", category: "dev", img: "assets/ceramic.png", preview: "https://ceramicsheaven.onrender.com/", github: "https://github.com/simmi0707/Ceramic-Heaven.git" },
   { title: "Portfolio Website", category: "dev", img: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80", preview: "#", github: "#" },
   { title: "Sales Dashboard", category: "data", img: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80", preview: "#", github: "#" },
   { title: "Data Visualization", category: "data", img: "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80", preview: "#", github: "#" },
   { title: "Customer Analytics", category: "data", img: "https://images.unsplash.com/photo-1465101178521-c1a9136a3d43?auto=format&fit=crop&w=400&q=80", preview: "#", github: "#" },
-  { title: "Droppable", category: "ui", img: "/assets/droppable.png", preview: "https://www.figma.com/design/noVZinrLWgk8TQqlmEE8tL/Untitled?node-id=0-1&t=xLpblZL9vOFgghNX-1", github: "#" },
+  { title: "Droppable", category: "ui", img: "assets/droppable.png", preview: "https://www.figma.com/design/noVZinrLWgk8TQqlmEE8tL/Untitled?node-id=0-1&t=xLpblZL9vOFgghNX-1", github: "#" },
   { title: "Landing Page UI", category: "ui", img: "https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?auto=format&fit=crop&w=400&q=80", preview: "#", github: "#" },
 ];
 
